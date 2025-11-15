@@ -158,8 +158,6 @@ sys
 Proyecto desarrollado por Gian Pier Valenzuela,
 Maestría en Zoología – UNMSM, 2025.
 
-Colaboración académica y asistencia bioinformática con ChatGPT.
-
 📄 Licencia
 
 Libre para uso académico y científico. Mencionar la autoría al reutilizar el repositorio.
