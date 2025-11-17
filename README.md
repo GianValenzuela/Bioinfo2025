@@ -145,12 +145,6 @@ IQ-TREE 2 (filogenia ML)
 
 Python 3 + librerías estándar
 
-subprocess
-
-shutil
-
-sys
-
 (Biopython opcional, no obligatorio)
 
 👤 Autoría
