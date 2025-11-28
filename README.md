@@ -36,9 +36,7 @@ Identificar clados genéticos y posibles especies crípticas.
 
 Evaluar el soporte estadístico de las ramas mediante bootstrap (ML).
 
-Crear un pipeline reproducible en Python para alineamiento + ML.
 
-Completar el 40% de los análisis requeridos para el proyecto.
 
 📁 Dataset
 
