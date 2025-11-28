@@ -1,13 +1,30 @@
-🐟 Filogenia molecular de Leporinus (Characiformes: Anostomidae) usando secuencias COI
+<img width="1664" height="806" alt="image" src="https://github.com/user-attachments/assets/2fdfca4d-6f51-41a3-9b74-aa7ba44bfc42" />🐟 Filogenia molecular de Leporinus (Characiformes: Anostomidae) usando secuencias COI
 📌 Descripción del proyecto
 
 Este repositorio contiene el análisis filogenético preliminar (40% de avance) del género Leporinus utilizando secuencias del gen mitocondrial COI obtenidas mediante barcoding molecular. Incluye dataset, scripts en Python, alineamiento automático y construcción del árbol de Máxima Verosimilitud con IQ-TREE.
+<img width="1664" height="806" alt="image" src="https://github.com/user-attachments/assets/33bc590c-08c8-4d84-96f4-acb6ab9d9184" />
+
+74 especies válidas (Fricke et al., 2025).
+
+Leporinus es el género con mayor riqueza dentro de su familia.
+
+Presenta gran variabilidad fenotípica:
+Tamaño: de pequeño a mediano.
+Posición de la boca: inferior o terminal.
+Patrón de coloración: base para subdividirlo en 3 grupos.
+
+Subgrupos morfológicos según coloración (Birindelli & Britski, 2013):
+Con manchas oscuras.
+Con franjas longitudinales oscuras ("estriados").
+Con 6 a 14 bandas transversales.
+
+Estudios moleculares (Ramírez et al., 2016; Ramírez et al., 2017) indican que estas subdivisiones no reflejan grupos monofiléticos.
+<img width="2237" height="711" alt="image" src="https://github.com/user-attachments/assets/e37da306-8cf2-4402-bda3-4b0c0397cc82" />
+
 
 🧬 Hipótesis
 
 Las secuencias COI revelarán múltiples linajes genéticos dentro de Leporinus, incluyendo especies válidas, especies crípticas y unidades taxonómicas no descritas. Se espera que el árbol filogenético muestre clados bien soportados que reflejen divergencia evolutiva asociada a distribución geográfica y complejos de especies.
-<img width="360" height="157" alt="image" src="https://github.com/user-attachments/assets/5d29588c-10c0-4712-9f9c-003827d1b75b" />
-
 
 🎯 Objetivos
 
