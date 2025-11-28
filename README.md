@@ -20,6 +20,7 @@ Con 6 a 14 bandas transversales.
 
 Estudios moleculares (Ramírez et al., 2016; Ramírez et al., 2017) indican que estas subdivisiones no reflejan grupos monofiléticos.
 
+<img width="498" height="1125" alt="image" src="https://github.com/user-attachments/assets/3f77a9f0-63c4-4b40-b0aa-6b1a5cfe1504" />
 
 🧬 Hipótesis
 
