@@ -1,4 +1,4 @@
-<img width="1664" height="806" alt="image" src="https://github.com/user-attachments/assets/2fdfca4d-6f51-41a3-9b74-aa7ba44bfc42" />🐟 Filogenia molecular de Leporinus (Characiformes: Anostomidae) usando secuencias COI
+🐟 Filogenia molecular de Leporinus (Characiformes: Anostomidae) usando secuencias COI
 📌 Descripción del proyecto
 
 Este repositorio contiene el análisis filogenético preliminar (40% de avance) del género Leporinus utilizando secuencias del gen mitocondrial COI obtenidas mediante barcoding molecular. Incluye dataset, scripts en Python, alineamiento automático y construcción del árbol de Máxima Verosimilitud con IQ-TREE.
