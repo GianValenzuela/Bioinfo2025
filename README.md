@@ -26,6 +26,8 @@ Estudios moleculares (Ramírez et al., 2016; Ramírez et al., 2017) indican que 
 
 Las secuencias COI revelarán múltiples linajes genéticos dentro de Leporinus, incluyendo especies válidas, especies crípticas y unidades taxonómicas no descritas. Se espera que el árbol filogenético muestre clados bien soportados que reflejen divergencia evolutiva asociada a distribución geográfica y complejos de especies.
 
+<img width="1359" height="764" alt="image" src="https://github.com/user-attachments/assets/f900e222-9f43-4a6d-bc31-f18cb9efee42" />
+
 🎯 Objetivos
 
 Reconstruir un árbol filogenético del género Leporinus usando secuencias COI.
