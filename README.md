@@ -6,6 +6,8 @@ Este repositorio contiene el análisis filogenético preliminar (40% de avance) 
 🧬 Hipótesis
 
 Las secuencias COI revelarán múltiples linajes genéticos dentro de Leporinus, incluyendo especies válidas, especies crípticas y unidades taxonómicas no descritas. Se espera que el árbol filogenético muestre clados bien soportados que reflejen divergencia evolutiva asociada a distribución geográfica y complejos de especies.
+<img width="360" height="157" alt="image" src="https://github.com/user-attachments/assets/5d29588c-10c0-4712-9f9c-003827d1b75b" />
+
 
 🎯 Objetivos
 
