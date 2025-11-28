@@ -19,7 +19,6 @@ Con franjas longitudinales oscuras ("estriados").
 Con 6 a 14 bandas transversales.
 
 Estudios moleculares (Ramírez et al., 2016; Ramírez et al., 2017) indican que estas subdivisiones no reflejan grupos monofiléticos.
-<img width="2237" height="711" alt="image" src="https://github.com/user-attachments/assets/e37da306-8cf2-4402-bda3-4b0c0397cc82" />
 
 
 🧬 Hipótesis
