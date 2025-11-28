@@ -28,7 +28,6 @@ Las secuencias COI revelarán múltiples linajes genéticos dentro de Leporinus,
 
 <img width="1359" height="764" alt="image" src="https://github.com/user-attachments/assets/f900e222-9f43-4a6d-bc31-f18cb9efee42" />
 
-<img width="965" height="1061" alt="image" src="https://github.com/user-attachments/assets/ade14095-e761-46c0-bca6-134ada15074a" />
 
 
 🎯 Objetivos
@@ -40,6 +39,9 @@ Identificar clados genéticos y posibles especies crípticas.
 Evaluar el soporte estadístico de las ramas mediante bootstrap (ML).
 
 Discutir la existencia de _Leporinus friderici_ en Perú y América del Sur.
+
+<img width="594" height="718" alt="image" src="https://github.com/user-attachments/assets/7ac707b5-f52e-40a7-9ac5-e28e87fea04e" />
+
 
 📁 Dataset
 
